@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D_Ekume_Platform_U5",
+"dataUrl": "Super Monkey Legend.data.unityweb",
+"wasmCodeUrl": "Super Monkey Legend.wasm.code.unityweb",
+"wasmFrameworkUrl": "Super Monkey Legend.wasm.framework.unityweb",
+"asmCodeUrl": "Super Monkey Legend.asm.code.unityweb",
+"asmMemoryUrl": "Super Monkey Legend.asm.memory.unityweb",
+"asmFrameworkUrl": "Super Monkey Legend.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
